@@ -1,9 +1,9 @@
 # Concept :
 
 Consider the following system of linear Equations :
-a11x1 + a12x2 + a13x3 =b1 
-a21x1 + a22x2 + a23x3 =b2 
-a31x1 + a32x2 + a33x3 =b3
+a11x1 + a12x2 + a13x3 =b1 ;
+a21x1 + a22x2 + a23x3 =b2 ;
+a31x1 + a32x2 + a33x3 =b3 ;
 
 Then the Augemented matrix to be given in input as follows :
 
